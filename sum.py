@@ -12,6 +12,8 @@ def sum_nums(nums):
     # want you to use it. Please write this by hand.
 
     # YOUR CODE HERE
+    total = 0
+    
     for num in nums:
         total += num
     return total
